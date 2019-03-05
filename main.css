@@ -1,0 +1,140 @@
+@import url('https://fonts.googleapis.com/css?family=Inconsolata:400,700');
+.rojo{
+	color: red;
+}
+
+.masthead{
+	background-image: url("./images/android.jpg");
+	height: 100%;
+	min-height: 500px;
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	text-align: center;
+	color: white;
+	background-attachment: scroll;
+	opacity: 0.9;
+}
+#textOne {
+	color: greenyellow;
+  }
+.tittle-text{
+	padding-top: 170px;
+	font-size: 30px;
+	font-family: 'Inconsolata', monospace;
+	font-style: italic;
+}
+
+.tittle2-text{
+	padding-top: 20px;
+	font-size: 30px;
+	font-family: 'Inconsolata', monospace;
+	font-style: italic;
+}
+
+.second-text{
+	font-size: 28px;
+	font-family: 'Inconsolata', monospace;
+	font-style: italic;
+	color: greenyellow;
+}
+
+.statistics{
+	background-image: url("./images/android_statistic.jpg");
+	min-height: 30rem;
+	background-size: cover;
+}
+
+.sectionOne{
+	text-align: center;
+	color: white;
+}
+
+.sectionTwo{
+	text-align: center;
+}
+
+.font-pri{
+	font-family: 'Inconsolata', monospace;
+	font-style: italic;
+	font-size: 15px;
+}
+
+.terms{
+	background-image: url("./images/terms.jpg");
+	height: 100%;
+	min-height: 500px;
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.tittle3-text{
+	padding-top: 50px;
+	font-size: 50px;
+	font-family: 'Inconsolata', monospace;
+	font-style: italic;
+	color: white;
+}
+
+.tittle4-text{
+	padding-top: 50px;
+	font-size: 50px;
+	font-family: 'Inconsolata', monospace;
+	font-style: italic;
+	color:black;
+}
+
+.text-two{
+	color: white;
+}
+
+.text-tree{
+	color:black;
+}
+
+.cta-inner {
+	position: relative;
+	padding: 3rem;
+	margin: 0.5rem;
+}
+
+  .section-heading .section-heading-upper {
+	display: block;
+	font-size: 20px;
+	font-weight: 80;
+  }
+
+  .cta {
+	padding-top: 2rem;
+  }
+  .cta .cta-inner {
+	position: relative;
+	padding: 3rem;
+	margin: 0.5rem;
+  }
+  .cta .cta-inner:before {
+	border-radius: 0.5rem;
+	content: '';
+	position: absolute;
+	top: -0.5rem;
+	bottom: -0.5rem;
+	left: -0.5rem;
+	right: -0.5rem;
+	border: 0.25rem solid rgba(255, 255, 255, 0.85);
+  }
+
+  .contactOne{
+	background-image: url("./images/contact.jpg");
+	height: 100%;
+	min-height: 500px;
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.finalPart{
+	background: black;
+	padding-top: 50px;
+
+}
